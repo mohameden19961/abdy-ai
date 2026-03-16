@@ -1,138 +1,119 @@
-# 🎯 MECI Auth Challenge - Challenge "Sésame, ouvre-toi !"
+<div align="center">
 
-## 🌟 Présentation du Défi
+<br/>
 
-**MECI Auth Challenge** est une interface d'authentification innovante développée dans le cadre du défi "Sésame, ouvre-toi !" de la Nuit de l'Informatique. Cette application démontre une nouvelle approche d'authentification biométrique multimodale combinant une **séquence musicale de couleurs** et un **pattern spatial**.
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&pause=1000&color=8B5CF6&center=true&vCenter=true&width=500&lines=✦+Abdy+AI;Assistant+IA+Personnel;Powered+by+Gemini+2.0+Flash" alt="Typing SVG" />
 
-### 🏢 Contexte Professionnel
-Application développée pour **Eiffage Énergie Systèmes - Division MECI**, expert en comptage transactionnel pour les secteurs du gaz naturel et des liquides.
+<br/>
 
-## 🎨 Caractéristiques du Défi
+[![Deploy](https://img.shields.io/badge/🚀_Live_Demo-abdy--ai.vercel.app-8B5CF6?style=for-the-badge&logoColor=white)](https://abdy-ai.vercel.app)
+[![License](https://img.shields.io/badge/License-MIT-blue?style=for-the-badge)](LICENSE)
 
-### 🔐 Authentification Multimodale Innovante
-- **Double facteur d'authentification** original et créatif
-- **Séquence de couleurs musicale** : Chaque couleur émet une note différente
-- **Pattern spatial** : Dessin d'un motif sur une grille 3x3
-- **Mémorisation intuitive** grâce aux associations sensorielles
+<br/>
 
-### 🚀 Fonctionnalités Principales
+<img src="https://img.shields.io/badge/React-18-61DAFB?style=flat-square&logo=react&logoColor=black" />
+<img src="https://img.shields.io/badge/Tailwind_CSS-3.4-38BDF8?style=flat-square&logo=tailwindcss&logoColor=white" />
+<img src="https://img.shields.io/badge/Gemini_2.0-Flash-4285F4?style=flat-square&logo=google&logoColor=white" />
+<img src="https://img.shields.io/badge/OpenRouter-API-FF6B35?style=flat-square" />
+<img src="https://img.shields.io/badge/Vercel-Deployed-000000?style=flat-square&logo=vercel&logoColor=white" />
 
-#### 1. **Inscription Sécurisée**
-- Création de compte avec email et username
-- Enregistrement d'une séquence personnalisée de 3 à 5 couleurs
-- Définition d'un pattern spatial unique
-- Stockage sécurisé localement
+<br/><br/>
 
-#### 2. **Connexion Intelligente**
-- Reconnaissance de la séquence de couleurs
-- Validation du pattern spatial
-- Feedback sonore en temps réel
-- Protection contre les tentatives incorrectes
+```
+ ██████╗     █████╗     ██╗
+██╔══██╗    ██╔══██╗    ██║
+███████║    ██████╔╝    ██║
+██╔══██║    ██╔══██╗    ██║
+██║  ██║    ██████╔╝    ██║
+╚═╝  ╚═╝    ╚═════╝     ╚═╝
+```
 
-#### 3. **Dashboard Professionnel**
-- Interface élégante avec gradients animés
-- Profil utilisateur personnalisable
-- Sections : Accueil, Profil, Paramètres
-- Informations métier spécifiques à MECI
+### *Assistant IA Personnel de Abdy Mohameden*
 
-#### 4. **Gestion de Profil**
-- Édition des informations personnelles
-- Visualisation des paramètres de sécurité
-- Date d'inscription et détails professionnels
+</div>
 
-## 🎵 Technologies Sonores
+---
 
-### Fréquences des Couleurs
-Chaque couleur émet une note spécifique du solfège :
-- **Bleu** (261.63 Hz) - Do
-- **Vert** (329.63 Hz) - Mi
-- **Jaune** (392.00 Hz) - Sol
-- **Rouge** (523.25 Hz) - Do
-- **Violet** (587.33 Hz) - Ré
-- **Orange** (659.25 Hz) - Mi
+## ✨ Fonctionnalités
 
-### Génération Audio
-Utilisation de l'**Audio Web API** pour générer des ondes sinusoïdales en temps réel, offrant une expérience immersive et mémorable.
+| Fonctionnalité | Description |
+|---|---|
+| 💬 **Multi-conversations** | Créer, renommer et gérer plusieurs discussions |
+| 🤖 **Gemini 2.0 Flash** | Modèle IA rapide et puissant via OpenRouter |
+| 📱 **Mobile-first** | Design optimisé pour Samsung A16 et tous mobiles |
+| 💾 **Sauvegarde auto** | Historique conservé dans le navigateur |
+| 🌍 **Multilingue** | Français · Arabe · Anglais |
+| 🎨 **Design premium** | UI sombre violet/indigo avec animations |
 
-## 🛠️ Stack Technique
+---
 
-### Frontend
-- **React 18** - Bibliothèque UI moderne
-- **Vite** - Build tool ultra-rapide
-- **Tailwind CSS** - Framework CSS utilitaire
-- **Lucide React** - Icônes élégantes
-- **Web Audio API** - Génération sonore
-
-### Déploiement
-- **Vercel** - Hébergement et déploiement continu
-- **GitHub** - Versioning et collaboration
-
-## 📱 Interface Utilisateur
-
-### Écran d'Accueil
-- Design accueillant avec gradients animés
-- Boutons d'inscription et connexion
-- Présentation du concept
-
-### Interface d'Authentification
-- Grille de 6 couleurs interactives
-- Matrice 3x3 pour le pattern spatial
-- Visualisation en temps réel des séquences
-- Feedback immédiat
-
-### Dashboard
-- Navigation intuitive (Accueil, Profil, Paramètres)
-- Cartes informatives sur les activités MECI
-- Éditeur de profil en ligne
-- Visualisation des paramètres de sécurité
-
-## 🔒 Sécurité et Stockage
-
-### Protection des Données
-- Stockage local sécurisé (LocalStorage)
-- Validation côté client
-- Protection contre les séquences incorrectes
-- Pas de transmission réseau sensible
-
-### Mémorisation
-- Combinaison visuelle, auditive et spatiale
-- Facilité de mémorisation naturelle
-- Résistance à l'oubli grâce aux associations multisensorielles
-
-## 🎯 Objectifs du Défi
-
-### Pédagogiques
-- Démontrer une approche innovante d'authentification
-- Explorer les interactions multimodales
-- Utiliser les APIs web modernes (Audio API)
-
-### Professionnels
-- Fournir une solution d'authentification intuitive
-- Réduire la dépendance aux mots de passe
-- Offrir une expérience utilisateur mémorable
-
-### Techniques
-- Maîtrise de React et des hooks
-- Gestion d'état complexe
-- Intégration audio en temps réel
-- Design responsive et accessible
-
-## 🚀 Installation et Démarrage
-
-### Prérequis
-- Node.js 16+ et npm/yarn
-
-### Installation
+## 🚀 Démarrage rapide
 
 ```bash
-# Cloner le dépôt
-git clone https://github.com/Mahfoud24087/meci-auth-challenge.git
+# 1. Cloner le projet
+git clone https://github.com/mohameden19961/abdy-ai.git
+cd abdy-ai
 
-# Accéder au dossier
-cd meci-auth-challenge
-
-# Installer les dépendances
+# 2. Installer les dépendances
 npm install
 
-# Lancer en développement
-npm run dev
+# 3. Lancer en local
+npm start
+```
+
+> 🔑 Obtiens ta clé API gratuite sur [openrouter.ai/keys](https://openrouter.ai/keys) et configure-la dans ⚙️
+
+---
+
+## 🛠️ Stack technique
+
+<div align="center">
+
+| Frontend | IA | Déploiement |
+|:---:|:---:|:---:|
+| ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black) | ![Google](https://img.shields.io/badge/Gemini_2.0-4285F4?style=for-the-badge&logo=google&logoColor=white) | ![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white) |
+| ![Tailwind](https://img.shields.io/badge/Tailwind-38BDF8?style=for-the-badge&logo=tailwindcss&logoColor=white) | ![OpenRouter](https://img.shields.io/badge/OpenRouter-FF6B35?style=for-the-badge) | ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white) |
+
+</div>
+
+---
+
+## 📁 Structure du projet
+
+```
+abdy-ai/
+├── 📂 public/
+│   └── index.html
+├── 📂 src/
+│   ├── App.js          ← Composant principal + logique IA
+│   ├── index.js
+│   └── index.css       ← Tailwind + styles custom
+├── tailwind.config.js
+├── postcss.config.js
+└── package.json
+```
+
+---
+
+## 🔧 Configuration
+
+Dans `src/App.js`, tu peux changer le modèle IA :
+
+```js
+// Modèles gratuits disponibles sur OpenRouter
+const FREE_MODEL = "google/gemini-2.0-flash-001";      // ← actuel
+// const FREE_MODEL = "meta-llama/llama-3.3-70b-instruct:free";
+// const FREE_MODEL = "mistralai/mistral-7b-instruct:free";
+```
+
+---
+
+<div align="center">
+
+**Fait avec ❤️ par [Abdy Mohameden](https://github.com/mohameden19961) — Nouakchott, Mauritanie 🇲🇷**
+
+<br/>
+
+⭐ **Si ce projet t'a aidé, laisse une étoile !** ⭐
+
+</div>
