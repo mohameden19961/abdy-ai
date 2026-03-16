@@ -1,10 +1,6 @@
 <div align="center">
 
-<br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&pause=1000&color=8B5CF6&center=true&vCenter=true&width=500&lines=✦+Abdy+AI;Assistant+IA+Personnel;Powered+by+Gemini+2.0+Flash" alt="Typing SVG" />
-
-<br/>
 
 [![Deploy](https://img.shields.io/badge/🚀_Live_Demo-abdy--ai.vercel.app-8B5CF6?style=for-the-badge&logoColor=white)](https://abdy-ai.vercel.app)
 [![License](https://img.shields.io/badge/License-MIT-blue?style=for-the-badge)](LICENSE)
@@ -19,14 +15,14 @@
 
 <br/><br/>
 
-```
- ██████╗     █████╗     ██╗
-██╔══██╗    ██╔══██╗    ██║
-███████║    ██████╔╝    ██║
-██╔══██║    ██╔══██╗    ██║
-██║  ██║    ██████╔╝    ██║
-╚═╝  ╚═╝    ╚═════╝     ╚═╝
-```
+<pre>
+ █████╗  ██████╗ ██████╗ ██╗   ██╗
+██╔══██╗ ██╔══██╗██╔══██╗╚██╗ ██╔╝
+███████║ ██████╔╝██║  ██║ ╚████╔╝
+██╔══██║ ██╔══██╗██║  ██║  ╚██╔╝
+██║  ██║ ██████╔╝██████╔╝   ██║
+╚═╝  ╚═╝ ╚═════╝ ╚═════╝    ╚═╝
+</pre>
 
 ### *Assistant IA Personnel de Abdy Mohameden*
 
@@ -100,8 +96,7 @@ abdy-ai/
 Dans `src/App.js`, tu peux changer le modèle IA :
 
 ```js
-// Modèles gratuits disponibles sur OpenRouter
-const FREE_MODEL = "google/gemini-2.0-flash-001";      // ← actuel
+const FREE_MODEL = "google/gemini-2.0-flash-001";       // ← actuel
 // const FREE_MODEL = "meta-llama/llama-3.3-70b-instruct:free";
 // const FREE_MODEL = "mistralai/mistral-7b-instruct:free";
 ```
